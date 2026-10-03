@@ -1,0 +1,8 @@
+{
+  "name": "Chronos: Physics & Perception of Time",
+  "description": "An interactive laboratory to explain and prove the nature of time in fundamental physics and human experience using AI reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
